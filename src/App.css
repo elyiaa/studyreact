@@ -1,0 +1,55 @@
+.app-container {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  padding: 40px;
+  background-color: #b4cfec;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #1f3c88;
+  margin-bottom: 20px;
+}
+
+.card {
+  background: white;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 20px auto;
+  width: 300px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+input {
+  padding: 8px;
+  width: 80%;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-top: 10px;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: none;
+  background-color: #1f3c88;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #162c5c;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background: #d6e4f0;
+  margin: 5px;
+  border-radius: 6px;
+  padding: 5px;
+}
